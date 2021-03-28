@@ -2,6 +2,7 @@ UniversalPWM	KEYWORD1
 attach	KEYWORD2
 write	KEYWORD2
 read	KEYWORD2
+setLimit	KEYWORD2
 resolution	LITERAL1
 pwm	LITERAL1
 pin	LITERAL1
